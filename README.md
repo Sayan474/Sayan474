@@ -35,3 +35,44 @@ Passionate **Computer Science student** with a strong interest in **AI/ML** and 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sayan474/Sayan474/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+
+
+<div align="center">
+
+# 📊 GitHub Statistics
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sayan474&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sayan474&theme=tokyonight&utcOffset=5.5" />
+
+<br><br>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sayan474&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sayan474&theme=tokyonight" />
+
+<br><br>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Sayan474&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sayan474&theme=tokyonight" />
+
+<br><br>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sayan474&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+## 🚀 Featured Projects
+
+<a href="https://github.com/Sayan474/DevCollab">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sayan474&repo=DevCollab&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Sayan474/Disease-Prediction-App">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sayan474&repo=Disease-Prediction-App&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
