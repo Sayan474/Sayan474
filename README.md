@@ -41,38 +41,40 @@ Passionate **Computer Science student** with a strong interest in **AI/ML** and 
 
 # 📊 GitHub Statistics
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sayan474&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sayan474&theme=tokyonight&utcOffset=5.5" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sayan474&theme=aura" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sayan474&theme=aura&utcOffset=5.5" />
 
 <br><br>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sayan474&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sayan474&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sayan474&theme=aura" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sayan474&theme=aura" />
 
 <br><br>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Sayan474&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Sayan474&theme=merko&hide_border=true" />
 
 <br><br>
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sayan474&theme=tokyonight" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sayan474&theme=aura" />
 
 <br><br>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sayan474&theme=tokyo-night&hide_border=true" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sayan474&theme=github-dark&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-## 🚀 Featured Projects
+## 💭 Random Dev Quote
 
-<a href="https://github.com/Sayan474/DevCollab">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sayan474&repo=DevCollab&theme=tokyonight&hide_border=true" />
-</a>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-<a href="https://github.com/Sayan474/Disease-Prediction-App">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sayan474&repo=Disease-Prediction-App&theme=tokyonight&hide_border=true" />
-</a>
+</div>
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Keep learning, keep building, and never stop exploring."* 🚀
 
 </div>
